@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Jasperje/Jasperje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 A brief introduction:
 
@@ -19,4 +16,4 @@ A brief introduction:
 
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: ...
--->
+
